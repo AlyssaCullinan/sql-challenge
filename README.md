@@ -7,7 +7,7 @@ This challenge was completed as part of the [Northwestern University Data Scienc
 #### Project Status: Completed
 
 ## Objective
-The purpose of this challenge was to design tables to hold data from six CSV files, import the CSV files into the SQL database, and answer questions about that data. I performed data modeling, data engineering, and data analysis. 
+The purpose of this challenge was to design tables to hold data from six CSV files containing employee data, import the CSV files into the SQL database, and answer questions about that data. I performed data modeling, data engineering, and data analysis. 
 
 
 ### Technologies 
