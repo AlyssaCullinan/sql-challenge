@@ -18,3 +18,5 @@ The purpose of this challenge was to design tables to hold data from six CSV fil
 
 ### Sources
 1.[Quick Database Diagrams](https://www.quickdatabasediagrams.com/) 2. Previous Class Activities 
+
+![](https://github.com/AlyssaCullinan/sql-challenge/blob/main/Untitled%20design%20(1).mp4)
